@@ -1,0 +1,23 @@
+{
+	"folders": {},
+	"connections": {
+		"mysql8-179340ef4e4-417541e18fde8357": {
+			"provider": "mysql",
+			"driver": "mysql8",
+			"name": "MySQL 8+ - localhost",
+			"save-password": true,
+			"read-only": false,
+			"configuration": {
+				"host": "localhost",
+				"port": "3306",
+				"url": "jdbc:mysql://localhost:3306/",
+				"home": "/usr",
+				"type": "dev",
+				"provider-properties": {
+					"@dbeaver-serverTimezone@": "America/Mexico_City"
+				},
+				"handlers": {}
+			}
+		}
+	}
+}
